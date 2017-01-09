@@ -1,0 +1,21 @@
+
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300);
+
+body {
+  font-family: Lato, sans-serif;
+  color: #747704
+  font-weight: 300;
+}
+
+.top_margin {
+    margin-top: 20px;
+}
+
+.name_format {
+    font-weight: 100;
+    font-size: 60px;
+}
+
+.featured_format {
+    color: #BCBBBB;
+}
