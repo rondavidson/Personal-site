@@ -16,6 +16,10 @@ body {
     font-size: 50px;
 }
 
+.my_line {
+    border-bottom: 3px solid #BCBBBB;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 
