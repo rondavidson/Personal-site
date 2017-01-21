@@ -13,9 +13,17 @@ body {
 
 .name_format {
     font-weight: 100;
-    font-size: 60px;
+    font-size: 50px;
 }
+
+}
+
 
 .featured_format {
     color: #BCBBBB;
+}
+
+@media (max-width: 990px) {
+.name_format {text-align: left;}
+.name_format_sub {text-align: left;}
 }
